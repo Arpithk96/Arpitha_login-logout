@@ -1,0 +1,201 @@
+{
+  "appUrl": {
+    "qa": {
+      "url": "https://alb.qa.tractsoft.io/ui/c/qa"
+    }
+  },
+  "users": {
+    "alleyAutomation": {
+      "email": "mt2automations.user+alley@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+alley@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "boAutomation": {
+      "email": "mt2automations.user+bo@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+bo@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "chickenAutomation": {
+      "email": "mt2automations.user+chickenlittle@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+chickenlittle@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "colonelAutomation": {
+      "email": "mt2automations.user+colonel@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+colonel@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "dolittleAutomation": {
+      "email": "mt2automations.user+dolittle@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+dolittle@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "everyAutomation": {
+      "email": "mt2automations.user+every@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+every@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "farrahAutomation": {
+      "email": "mt2automations.user+farrah@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+farrah@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "freddyAutomation": {
+      "email": "mt2automations.user+freddy@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+freddy@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "happyAutomation": {
+      "email": "mt2automations.user+happy@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+happy@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "jellyAutomation": {
+      "email": "mt2automations.user+jelly@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+jelly@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "johnAutomation": {
+      "email": "mt2automations.user+johnlittle@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+johnlittle@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "limitedPermissions": {
+      "email": "mt2automations.user+limitedpermissions@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+limitedpermissions@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "mannyAutomation": {
+      "email": "mt2automations.user+manny@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+manny@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "marshaAutomation": {
+      "email": "mt2automations.user+marsha@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+marsha@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "megaAutomation": {
+      "email": "mt2automations.user+mega@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+mega@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "moxyAutomation": {
+      "email": "mt2automations.user+moxy@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+moxy@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "noPermissions": {
+      "email": "mt2automations.user+nopermissions@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+nopermissions@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "owenAutomation": {
+      "email": "mt2automations.user+owen@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+owen@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "peanutAutomation": {
+      "email": "mt2automations.user+peanut@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+peanut@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "pennyAutomation": {
+      "email": "mt2automations.user+penny@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+penny@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "phillipAutomation": {
+      "email": "mt2automations.user+phillip@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+phillip@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "rickyAutomation": {
+      "email": "mt2automations.user+ricky@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+ricky@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "rondaAutomation": {
+      "email": "mt2automations.user+ronda@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+ronda@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "sirveyAutomation": {
+      "email": "mt2automations.user+sirvey@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+sirvey@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "stanleyAutomation": {
+      "email": "mt2automations.user+stanley@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+stanley@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "stirAutomation": {
+      "email": "mt2automations.user+stir@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+stir@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "stuartAutomation": {
+      "email": "mt2automations.user+stuart@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+stuart@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "superSelena": {
+      "email": "mt2manual.users+superselena@gmail.com",
+      "password": "QAtesting@99",
+      "gmail": "mt2manual.users+superselena@gmail.com",
+      "gmailpw": "QAtesting@99"
+    },
+    "terryAutomation": {
+      "email": "mt2automations.user+terry@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+terry@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "testAutomation": {
+      "email": "mt2automations.user+test@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+test@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "tommyAutomation": {
+      "email": "mt2automations.user+tommy@gmail.com",
+      "password": "mcBbxaRQFvMBu@7",
+      "gmail": "mt2automations.user+tommy@gmail.com",
+      "gmailpw": "cmBbaxRHQvMVz@9"
+    },
+    "wesleyAutomation": {
+      "email": "mt2manual.user+wesleyabstract@gmail.com",
+      "password": "QAtesting@99",
+      "gmail": "mt2manual.user+wesleyabstract@gmail.com",
+      "gmailpw": "QAtesting@99"
+    }
+  }
+}

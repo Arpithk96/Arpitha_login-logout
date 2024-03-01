@@ -1,0 +1,40 @@
+{
+  "name": "symplr-test-automation-automation-wdio",
+  "version": "1.0.0",
+  "description": "symplr test automation framework",
+  "main": "index.js",
+  "keywords": [
+    "webdriverio",
+    "typescript",
+    "wdio",
+    "sTAF"
+  ],
+  "author": "Prasanth, symplr COE",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^8.16.3",
+    "allure-commandline": "^2.25.0",
+    "chai-webdriverio": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "imapflow": "^1.0.147",
+    "wdio-video-reporter": "^4.0.3",
+    "wdio-wait-for": "^3.0.6",
+    "webdriverio": "^8.16.3",
+    "@types/chai": "^4.3.6",
+    "@wdio/allure-reporter": "^8.16.3",
+    "@wdio/browserstack-service": "^8.16.3",
+    "@wdio/cucumber-framework": "^8.16.3",
+    "@wdio/dot-reporter": "^8.16.3",
+    "@wdio/local-runner": "^8.16.3",
+    "chai": "^4.0.1",
+    "ts-node": "^10.9.1",
+    "typedoc": "^0.25.1",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "local:chrome": "npx wdio ./config/wdio.local.chrome.conf.ts",
+    "local:edge": "npx wdio ./config/wdio.local.edge.conf.ts",
+    "prettier": "npx prettier --write .",
+    "allure": "allure generate ./reports/allure-results/ --report-path ./reports/allure-report --clean && allure open"
+  }
+}
